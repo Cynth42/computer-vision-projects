@@ -5,10 +5,10 @@ This is a showcase of Udacity's Computer Vision Nanodegree projects carried out 
 
 ## Table of Contents
 
-* [Project1](#project1)
-* [Project2](#project2)
-* [Project3](#project3)
-* [References](#refrerences)
+* [Projectone](#projectone)
+* [Projecttwo](#projecttwo)
+* [Projectthree](#projectthree)
+* [References](#references)
 * [Credits](#credits)
 
 ## Project1: Facial Key Points
