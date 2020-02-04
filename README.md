@@ -16,13 +16,13 @@ This is a showcase of Udacity's Computer Vision Nanodegree projects carried out 
 ## ProjectOne: 
 ### Facial Key Points
 
-![](screen-shot-2018-04-10-at-8.24.14-pm.png)
+![](project3/screen-shot-2018-04-10-at-8.24.14-pm.png)
 Apply knowledge of image processing and deep learning to create a CNN for facial keypoints (eyes, mouth, nose, etc.) detection.
 
 ## ProjectTwo: 
 ### Image Captioning
 
-![](image-captioning.png)
+![](project3/image-captioning.png)
 
 Train a CNN-RNN model to predict captions for a given image, using the Microsoft Common Objects in COntext (MS COCO) dataset.
 
